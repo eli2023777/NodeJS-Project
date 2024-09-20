@@ -1,0 +1,1 @@
+export const JWT_SECRET = 'FullStack777!7575943939887ecscewc';
